@@ -2,11 +2,11 @@
 
 ## Overview
 
-This Battlesnake engine is a high-performance cybernetic brain designed to dominate the arena through probabilistic forecasting and spatial control. This architecture treats board survival as a strict resource optimization problem, executing thousands of simulated futures per turn to maximize the return on investment for every movement decision.
+This Battlesnake engine is a high-performance cybernetic brain designed to weather the arena through probabilistic forecasting and spatial control; this architecture treats board survival as a strict resource optimization problem via the execution of simulated futures to maximize return on investment for every movement decision!
 
 ## Languages & System Architecture
 
-The system is built for absolute execution speed, bypassing the standard latency limitations of interpreted languages.
+This system is built for absolute execution speed, bypassing the standard latency limitations of interpreted languages.
 
 * **C++ (C++17):** The core engine is written entirely in compiled C++ to eliminate Garbage Collection pauses and Global Interpreter Lock (GIL) bottlenecks, allowing for maximum hardware utilization.
 * **Single-Header Libraries:** Utilizes `cpp-httplib` for multithreaded web serving and `nlohmann/json` for high-speed payload parsing.
